@@ -165,7 +165,8 @@ parent
 :   FIXME
 
 pipe
-:   FIXME
+:  The vertical bar between the two commands is called a pipe. It tells the shell that we want to use the output of the command on the left as the input to the command on the right.
+Example: $ sort -n lengths | head -1 (It is the | between lengths and head )
 
 process
 :   FIXME
