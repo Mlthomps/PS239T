@@ -132,7 +132,7 @@ comment
 :   FIXME
 
 current working directory
-:   current working directory is our current default directory, i.e., the directory that the computer assumes we want to run commands in unless we explicitly specify something else.
+:   FIXME
 
 file system
 :   FIXME
@@ -165,7 +165,7 @@ parent
 :   FIXME
 
 pipe
-:  A vertical bar between two commands. It allows use of output of the first command (on the left) as input for the second command (on the right)
+:   FIXME
 
 process
 :   FIXME
@@ -192,8 +192,11 @@ root directory
 :   FIXME
 
 shell script
-:   FIXME
-
+:   A bunch of commands saved in a file is usually called a shell script.
+Example:
+$ cd data/articles
+$ touch group.sh
+$ nano group.sh
 standard input
 :   FIXME
 
